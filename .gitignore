@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+# IDE / Code Editor
+.idea
+.vscode
+# Dependencies
+.pnp.js
+/.pnp
+/node_modules
+node_modules
+# Build / App Cache
+.dist
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
